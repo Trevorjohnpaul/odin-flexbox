@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blue;
+    border: 3px solid black;
+}
+.box{
+    width: 100px;
+    height: 100px;  
+    padding: 15px; 
+    display: flex;
+    background-color:lightpink;
+    border: 5px solid rgb(119, 5, 5);
+
+}
+.box p{
+    align-self: center;
+}
